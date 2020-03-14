@@ -5,3 +5,5 @@ This app contain two main View
 -Movie Detail: show detail information for specific movie  
 You can tap each movie in the moiveList view then jump to the detail view  
 You can also swipe each table cell to delete  
+
+![image](https://github.com/mmyduckx/TMDB/blob/master/TMDB.gif)
