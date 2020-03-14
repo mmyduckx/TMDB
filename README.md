@@ -7,3 +7,4 @@ You can tap each movie in the moiveList view then jump to the detail view
 You can also swipe each table cell to delete  
 
 ![image](https://github.com/mmyduckx/TMDB/blob/master/TMDB.gif)
+<img src="https://github.com/mmyduckx/TMDB/blob/master/TMDB.gif" width=200 height=360 />
