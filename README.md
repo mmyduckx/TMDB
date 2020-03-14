@@ -1,5 +1,5 @@
 # TMDB
-It's an IOS program using TheMovieDatabase API  
+It's an IOS program using TheMovieDatabase API, SWIFT5.0, Xcode11
 This app contain two main View:
 - Movie Lists: show the top20 popular movie with title,description,rating and poster  
 - Movie Detail: show detail information for specific movie  
